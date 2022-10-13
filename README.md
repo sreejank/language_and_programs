@@ -1,5 +1,11 @@
 ## Using natural language and program abstractions to instill human inductive biases in machines
 
+Link to preprint: https://arxiv.org/abs/2205.11558
+
+
+Description of files:
+
+
 Data
 
 * data/500_gsp_samples_text_human_encoded.npy: Human language embeddings 
