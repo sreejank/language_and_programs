@@ -24,6 +24,8 @@ Data
 
 * data/gsp_4x4_full_probs.npy: Frequencies of each board in the GSP chain. 
 
+* data/data_grulrep.csv: Raw chain data for GSP experiment [network_id: indexes the different GSP chains, active_index: indicates which cell is being changed, degree: indicates which iteration in the chain you’re looking at (0 initial random seed), definition: grid being changed]
+
 * data/gsp_4x4_sample.npy: Test set GSP boards 
 
 * data/gsp_4x4_sample_starts.npy: Start tiles for test set GSP boards 
